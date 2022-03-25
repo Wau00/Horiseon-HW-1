@@ -1,3 +1,5 @@
+/* General elements */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +9,18 @@
 body {
     background-color: #d9dcd6;
 }
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+
+/* The Header */
 
 .header {
     padding: 20px;
@@ -24,7 +38,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,25 +46,16 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
-.hero {
+.bannerAd {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -58,6 +63,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+
 
 .float-left {
     float: left;
@@ -69,7 +75,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
+.body-content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
