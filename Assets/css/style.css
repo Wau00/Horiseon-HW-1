@@ -17,6 +17,7 @@ a {
 
 p {
     font-size: 16px;
+    line-height: 2 ;
 }
 
 
@@ -59,6 +60,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
+    margin-top: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
@@ -81,6 +83,7 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    margin-top: 20px;
 }
 
 #search-engine-optimization, #online-reputation-management, #social-media-marketing {
@@ -105,6 +108,7 @@ p {
     /* Aside-Benefits */
 
     .benefits {
+        margin-top: 20px;
         margin-right: 20px;
         padding: 20px;
         clear: both;
