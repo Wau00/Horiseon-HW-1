@@ -1,9 +1,9 @@
 # Horiseon-HW-1
-$ UCB-BOOTCAMP-HW-01 HTML, CSS, and Git: Code Refactor 
+# UCB-BOOTCAMP-HW-01 HTML, CSS, and Git: Code Refactor 
 
 Objective: Refactor an existing code that meets the accesibility standards, becoming optimized for search engines.
 
-$ Acceptance Criteria
+# Acceptance Criteria
 
 -The webpage meets accessibility standards
 -Addresses semantic HTML elements
@@ -12,7 +12,7 @@ $ Acceptance Criteria
 -Heading attributes fall in sequential order
 -Incorporate a concise, descriptive tittle
 
-$ Modifications on the HTMl 
+# Modifications on the HTMl 
 
 -Added a reset.css stylesheet
 -Changed tittle to "Horiseon" 
@@ -30,7 +30,7 @@ $ Modifications on the HTMl
 -Replace <div> to <footer>
 -Added alt properties with description to each image
 
-$ Modifications on CSS
+# Modifications on CSS
 -Restructure and organize header, body, aside, and footer elements.
 -Update class/id on CSS
 -Reorganized the rules to provide a cascading rule application 
@@ -81,11 +81,11 @@ $ Modifications on CSS
         max-width: 150px;
     }
 
-$ Result $
+# Result 
 With the application of concepts and the deep research on accessibility standards, we were able to produce an optimized, easy to read and effective website.
 
 
-$$ References $$
+# References 
 [Web accessibility standards](https://www.w3.org/standards/webdesign/accessibility)
 [Code Refactoring](https://www.altexsoft.com/blog/engineering/code-refactoring-best-practices-when-and-when-not-to-do-it/)
 [Make a README](https://www.makeareadme.com/#template)
