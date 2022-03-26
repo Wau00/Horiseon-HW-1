@@ -1,39 +1,39 @@
 # Horiseon-HW-1
 # UCB-BOOTCAMP-HW-01 HTML, CSS, and Git: Code Refactor 
 
-Objective: Refactor an existing code that meets the accesibility standards, becoming optimized for search engines.
+* Objective: Refactor an existing code that meets the accesibility standards, becoming optimized for search engines.
 
 # Acceptance Criteria
 
--The webpage meets accessibility standards
--Addresses semantic HTML elements
--The elements follow a logical structure independent of styling and positioning
+* The webpage meets accessibility standards
+* Addresses semantic HTML elements
+* The elements follow a logical structure independent of styling and positioning
 -Includes accesible alt attributes in images
 -Heading attributes fall in sequential order
 -Incorporate a concise, descriptive tittle
 
 # Modifications on the HTMl 
 
--Added a reset.css stylesheet
--Changed tittle to "Horiseon" 
--Replace <div> for <header> tag
--Replace <div> for <nav> tag
+- Added a reset.css stylesheet
+- Changed tittle to "Horiseon" 
+- Replace <div> for <header> tag
+- Replace <div> for <nav> tag
     #Changed to .header nav on CSS
--Changed class name from hero to bannerAD
--Replaced <div> to <main>
--Changed class name from content to body-content
--Changed class ="search-engine-optimization" to id= "search-engine-optimization"
--Eliminate class = "online-reputation-management"
--Eliminate class = "social-media-marketing"
--Replaced <div> to <aside>
--Changed class= "benefit-lead", "benefit-brand", "benefit-cost" to id= "benefit-lead", "benefit-brand", "benefit-cost"
--Replace <div> to <footer>
--Added alt properties with description to each image
+- Changed class name from hero to bannerAD
+- Replaced <div> to <main>
+- Changed class name from content to body-content
+- Changed class ="search-engine-optimization" to id=                       "search-engine-optimization"
+- Eliminate class = "online-reputation-management"
+- Eliminate class = "social-media-marketing"
+- Replaced <div> to <aside>
+- Changed class= "benefit-lead", "benefit-brand", "benefit-cost" to id=     "benefit-lead", "benefit-brand", "benefit-cost"
+- Replace <div> to <footer>
+- Added alt properties with description to each image
 
 # Modifications on CSS
--Restructure and organize header, body, aside, and footer elements.
--Update class/id on CSS
--Reorganized the rules to provide a cascading rule application 
+- Restructure and organize header, body, aside, and footer elements.
+- Update class/id on CSS
+- Reorganized the rules to provide a cascading rule application 
 
     ## Rules that were reorganized into one group ##
     
@@ -86,6 +86,6 @@ With the application of concepts and the deep research on accessibility standard
 
 
 # References 
-[Web accessibility standards](https://www.w3.org/standards/webdesign/accessibility)
-[Code Refactoring](https://www.altexsoft.com/blog/engineering/code-refactoring-best-practices-when-and-when-not-to-do-it/)
-[Make a README](https://www.makeareadme.com/#template)
+* [Web accessibility standards](https://www.w3.org/standards/webdesign/accessibility)
+* [Code Refactoring](https://www.altexsoft.com/blog/engineering/code-refactoring-best-practices-when-and-when-not-to-do-it/)
+* [Make a README](https://www.makeareadme.com/#template)
