@@ -12,7 +12,7 @@
 -Heading attributes fall in sequential order
 -Incorporate a concise, descriptive tittle
 
-# Modifications on the HTMl 
+# Modifications on the HTML 
 
 - Added a reset.css stylesheet
 - Changed tittle to "Horiseon" 
@@ -35,51 +35,68 @@
 - Update class/id on CSS
 - Reorganized the rules to provide a cascading rule application 
 
-    ## Rules that were reorganized into one group ##
+     # Rules that were reorganized into one group 
     
+   ```
     #search-engine-optimization, #online-reputation-management, #social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
-    height: 300px;
-   
+    height: 300px; 
+   ```
+    
+    ```
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
     }
-
-
-    #search-engine-optimization img, #online-reputation-management img, #social-media-marketing img {
-        max-height: 200px;
-    }
-
-    #search-engine-optimization h2, #online-reputation-management h2, #social-media-marketing h2 {
-        margin-bottom: 20px;
-        font-size: 30px;
-        font-weight: bold ;
-    }
+    ```
     
+  ```
+    #search-engine-optimization img, #online-reputation-management img, #social-media-marketing img {
+    max-height: 200px;
+    }
+    ```
+   
+  ```
+    #search-engine-optimization h2, 
+    #online-reputation-management h2, 
+    #social-media-marketing h2 {
+         margin-bottom: 20px;
+         font-size: 30px;
+         font-weight: bold ;
+    }
+    ```
+    
+  ```
     #search-engine-optimization h2, #online-reputation-management h2, #social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 30px;
-    font-weight: bold ;
+      margin-bottom: 20px;
+      font-size: 30px;
+      font-weight: bold ;
+    }
+    ```
 
+     ```
     #benefit-lead, #benefit-brand, #benefit-cost {
         margin-bottom: 32px;
         color: #ffffff;
-         
     }
-
-    #benefit-lead h3, #benefit-brand h3, #benefit-cost h3 {
+     ```
+  
+  ```
+     #benefit-lead h3, #benefit-brand h3, #benefit-cost h3 {
         margin-bottom: 10px;
         text-align: center;
         font-weight: bold;
     }
-
+    ```
+    ```
     #benefit-lead img, #benefit-brand img, #benefit-cost img {
         display: block;
         margin: 10px auto;
         max-width: 150px;
     }
+    ```
+   
 
 # Result 
 With the application of concepts and the deep research on accessibility standards, we were able to produce an optimized, easy to read and effective website.
