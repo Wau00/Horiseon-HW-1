@@ -98,8 +98,13 @@
     ```
    
 
-# Result 
+# Result
 With the application of concepts and the deep research on accessibility standards, we were able to produce an optimized, easy to read and effective website.
+
+
+#  WebPage Preview
+
+![Screen Shot 2022-04-05 at 1 46 48 PM](https://user-images.githubusercontent.com/99919050/161846345-44ffbd45-2e2c-46c5-9519-1eac60f1873d.png)
 
 
 # References 
